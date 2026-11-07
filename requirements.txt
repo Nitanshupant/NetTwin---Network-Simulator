@@ -1,0 +1,6 @@
+# Tested with Python 3.12, Streamlit 1.66, Plotly 6.9, pandas 2.3, NetworkX 3.6, pytest 9.1
+streamlit>=1.50,<2.0
+plotly>=5.24,<7.0
+networkx>=3.3,<4.0
+pandas>=2.2,<3.0
+pytest>=8.0,<10.0
